@@ -6,7 +6,7 @@
 
 1- Omar Saleh -Matriculation number: 3120009
 
-3- Ibrahim Khalil -Matriculation number: 3119779
+2- Ibrahim Khalil -Matriculation number: 3119779
 
 # arabic_ner.py:
 
